@@ -71,7 +71,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>My First App</Text> Let's create a new application
+            MEU PRIMEIRO APLICATIVO
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
